@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yamlakkassahun
 - 👀 I’m interested in genral programing and development 
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any thing related to nodejs
 - 📫 How to reach me email yamlak.k@gmail.com
 <!---
