@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamlakkassahun
 - 👀 I’m interested in general programming and development. 
-- 💞️ I’m looking to collaborate on any thing related to nodejs.
+- 💞️ I’m looking to collaborate on any thing related to nodejs, Nestjs and React.
 - 📫 How to reach me email yamlak.k@gmail.com
 <!---
 yamlakkassahun/yamlakkassahun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
